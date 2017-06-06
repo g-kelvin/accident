@@ -1,0 +1,222 @@
+body{
+	background: url(back3.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	font-family:lucida calligraphy;
+	font-weight: 35px;
+	font-size: 25px;
+	font-family: consolas !important;
+}
+
+#maintitleadmin{
+	background-color: white;
+	height: 150px;
+	width: 500px;
+	opacity: 0.8;
+}
+#homeleftp {
+	padding-top : 1%;
+	padding-bottom: 5%;
+	min-width: 30%;
+	max-width: 30%;
+	top: 0;
+	margin-left: 0;
+	position: absolute;
+	background-color: black;
+	opacity: 0.8;
+	margin-top: 12%;
+	padding-bottom: 0%;	
+}
+
+#homemidp
+{
+	padding-top : 1%;
+	padding-bottom: 5%;
+	top: 0;
+	max-width: 33%;
+	min-width: 33%;
+	margin-left: 34%;
+	margin-right: 34%;
+	position: absolute;
+	margin-top: 12%;
+	background-color: black;
+	opacity: 0.8;
+
+}
+#homeleftp img
+{
+	max-width: 80%;
+	max-height: 50%
+}
+#homemidp img
+{
+	position: absolute;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 100%;.
+   }
+#homerightp
+{
+	padding-top : 1%;
+	padding-bottom: 5%;
+	top: 0;
+	max-width: 30%;
+	min-width: 30%;
+	margin-right: 0;
+	right: 0;
+	position: absolute;
+	background-color: black;
+	opacity: 0.7;
+	margin-top: 12%;
+	padding-bottom: 0%;
+	right: 1%;
+}
+
+.accident-list {
+	max-width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.accident-list li {
+	list-style-type: none;
+	border-bottom: 1px solid black;
+	height: auto;
+}
+
+.accident-list li img {
+	max-width: 2500px;
+	min-width: 150px;
+	min-height: 150px;
+	max-height: 250px !important;
+}
+
+
+span.list-content {
+
+	position: absolute;
+	text-align: left;
+	padding-left: 5px;
+	padding-top: 2px;
+	word-wrap : break-word;
+	
+}
+#loginbackground
+{
+	background-color: black;
+	opacity: 0.8;
+	right: 20%;
+	left: 20%;
+    position: absolute;
+    margin-top: 200px;
+}
+#formbackground
+{
+    background-color: black;
+	right: 200px;
+	left: 200px;
+    position: absolute;
+    opacity: 0.9;	
+}
+#maintittle
+{
+	background-color: black;
+	opacity: 0.8;
+	max-width: 350px;
+	font-size: 20px;
+	border-right-color;
+	position: absolute;
+	left:0px;
+	text-align: right;
+	right: 0px;
+
+}
+#pos{
+	position: absolute;
+	top: 50px;
+	right: 40px;
+}
+#links
+{
+	background-color: black;
+	opacity: 0.8;
+    max-width: 100%;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	right: 0px;
+	left: 0px;
+	height: 90px;
+
+}
+#reportback
+{
+	background-color: black;
+	opacity: 0.8;
+	max-width: 509% !important;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 0%;
+
+}
+#userspost
+{
+	background-color: black;
+	opacity: 0.9;
+	max-width: 60%;
+	margin-top: 8%;
+
+}
+#hometitle
+{
+	background-color: white;
+	opacity:0.8;
+}
+#delete
+{
+	margin-top: 25%;
+	background-color: white;
+	opacity: 0.8;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+#approveadmins
+{
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 25%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+#displaypendingadmins
+
+{ 
+	margin-top: 5%;
+	background-color: black ;
+	opacity: 0.8;
+	max-width: 50%;
+
+}
+input{
+	height: 30px;
+	width: 320px;
+	font-size: 25px;
+}
+
+#displaypendingadmins li {
+	list-style-type: none;
+}
+button{
+	width: 320px;
+	height: 30px;
+	font-size: 25px;
+}
+#aboutus
+{
+	margin-top: 5`%;
+	opacity: 0.8;
+	background-color: black;
+	margin-right: 400px;
+	margin-left: 400px;
+}
